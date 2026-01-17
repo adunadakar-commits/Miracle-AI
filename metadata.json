@@ -1,0 +1,8 @@
+{
+  "name": "Miracle AI",
+  "description": "A mystical AI-powered workspace that performs creative and logical 'miracles' using the latest Gemini models. It includes content generation, image creation, and deployment guides for the miracle.senegal-telecom.com domain.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
